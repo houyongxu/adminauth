@@ -1,6 +1,6 @@
 <?php
 
-namespace adminauth\controllers;
+namespace adminauth\common;
 use yii\web\Controller;
 
 class AdminAuthController extends Controller

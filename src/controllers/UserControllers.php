@@ -9,4 +9,9 @@ class UserController extends AdminAuthController
 	{
 		parent::init();
 	}
+	
+	public function actionIndex()
+	{
+		echo 'hello word';
+	}
 }

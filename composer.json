@@ -3,7 +3,7 @@
   "description": "Yii2 houyongxu adminauth",  
   "keywords": [  
     "yii2",  
-    "terrytest"  
+    "adminauth"  
   ],  
   "homepage": "https://github.com/houyongxu/adminauth",  
   "type": "yii2-extension",  
